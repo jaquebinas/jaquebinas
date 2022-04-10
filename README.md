@@ -1,6 +1,6 @@
 #### Hi there! I'm Jaqueline Binas ! 👋 
  
-<p> I'm currently learning essentials programming languages and web tools. 🌱 </p>
+<p> I'm currently learning essential programming languages and web tools. 🌱 </p>
 <p> Thanks for visiting. </p>
 <p> Enjoy it!! o/ </p>
 
